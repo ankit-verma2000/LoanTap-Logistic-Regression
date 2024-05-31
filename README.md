@@ -1,7 +1,9 @@
 # LoanTap-Logistic-Regression
 > LoanTap Logistic Regression
 ## **Why this case study?**
+
 > **From the company’s perspective:**
+
 ● LoanTap is at the forefront of offering tailored financial solutions to millennials.
 
 ● Their innovative approach seeks to harness data science to refine their credit
@@ -15,7 +17,7 @@ spending habits, and potential risks associated with each borrower.
 
 ● The insights gained can optimize loan disbursal, balancing customer outreach
 with risk management.
-----
+___________________________________________________________________________
 ## **From the learners perspective:** 
 
 ● Tackling this case offers practical exposure to real-world financial data and its
@@ -23,7 +25,7 @@ challenges.
 ● Logistic Regression, a foundational algorithm, is pivotal in binary outcomes like
 loan decisions.
 ● Participants will hone skills in data preprocessing, model evaluation, and
-understanding trade-offs, essential in the data science realm.
+understanding trade-offs,which are essential in the data science realm.
 ● The case emphasizes actionable insights, fostering the ability to drive
 data-informed strategies in financial sectors.
 
@@ -86,3 +88,10 @@ ___________________________________________________________________________
 27. Address: Borrower's location.
 
 ___________________________________________________________________________
+
+## **What is Expected?**
+
+* Assuming you are a data scientist at LoanTap, you are tasked with analyzing the
+dataset to determine the creditworthiness of potential borrowers. 
+* Your ultimate objective is to build a logistic regression model, evaluate its performance, and provide actionable
+insights for the underwriting process.
