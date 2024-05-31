@@ -18,14 +18,17 @@ spending habits, and potential risks associated with each borrower.
 ● The insights gained can optimize loan disbursal, balancing customer outreach
 with risk management.
 ___________________________________________________________________________
-## **From the learners perspective:** 
+> **From the learners perspective:** 
 
 ● Tackling this case offers practical exposure to real-world financial data and its
 challenges.
+
 ● Logistic Regression, a foundational algorithm, is pivotal in binary outcomes like
 loan decisions.
+
 ● Participants will hone skills in data preprocessing, model evaluation, and
 understanding trade-offs,which are essential in the data science realm.
+
 ● The case emphasizes actionable insights, fostering the ability to drive
 data-informed strategies in financial sectors.
 
